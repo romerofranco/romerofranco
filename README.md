@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi, I'm Franco 👋+👨‍💻
+![me](https://github.com/user-attachments/assets/f86ee044-af24-47a5-a0fe-e0d77d7f8551)
+```js
+const romerofranco = {
+  pronouns: "he" | "him",
+  code: [Javascript,HTML,CSS,C++,C],
+  tools: [React,Node], 
+```
 <!--
 **romerofranco/romerofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
