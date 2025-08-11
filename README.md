@@ -4,8 +4,13 @@
 const romerofranco = {
   pronouns: "he" | "him",
   code: [Javascript,HTML,CSS,C++,C],
-  tools: [React,Node], 
+  tools: [React,Node],
+}
 ```
+You can find me 🌎: 
+- [x](https://x.com/FrancoRomero345)
+- [Instagram](https://www.instagram.com/franconicoromero16/)
+- [Tik Tok](https://www.tiktok.com/@francoromero717)
 <!--
 **romerofranco/romerofranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
